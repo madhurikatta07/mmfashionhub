@@ -1,0 +1,6 @@
+{
+  "name": "Madhu Magic Fashion Hub",
+  "description": "Luxurious, modern e-commerce platform for Madhu Magic Premium Women's Fashion & Jewellery, featuring smart stylings and direct Meesho storefront integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
